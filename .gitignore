@@ -1,0 +1,7 @@
+.env
+dist/
+node_modules/
+serviceAccountKey.json
+src/test/code/
+src/test/model/
+src/test/dataset/
